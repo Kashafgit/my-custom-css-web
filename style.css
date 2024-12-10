@@ -149,7 +149,7 @@ a {
     display: flex;
     justify-content: space-between;
     gap: 300px;
-    margin: 80px;
+    margin: 20px;
     flex-wrap: wrap;
 }
 
